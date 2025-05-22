@@ -1,4 +1,4 @@
-# CODSOFT Web Development Projects
+# Web Development Projects
 
 This repository contains a collection of frontend web development projects. These projects demonstrate practical knowledge in HTML, CSS, and JavaScript through real-world web design tasks.
 
