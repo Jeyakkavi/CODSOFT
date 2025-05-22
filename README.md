@@ -1,6 +1,6 @@
 # CODSOFT Web Development Projects
 
-This repository contains a collection of frontend web development projects completed as part of the **CodSoft Web Development Internship**. These projects demonstrate practical knowledge in HTML, CSS, and JavaScript through real-world web design tasks.
+This repository contains a collection of frontend web development projects. These projects demonstrate practical knowledge in HTML, CSS, and JavaScript through real-world web design tasks.
 
 ## Projects Included
 
@@ -34,7 +34,7 @@ This repository contains a collection of frontend web development projects compl
    ```bash
    git clone https://github.com/Jeyakkavi/CODSOFT.git
 2. Navigate into the desired project folder:
-   
+   ```bash
    cd CODSOFT/<project-folder>
 
 3. Open the index.html file in any modern web browser to view the project.
